@@ -1,7 +1,3 @@
-Here's an interactive and informative README file for the "Bone-Break-Classification-By-Computer-Vision" project.
-
----
-
 # 🦴 Bone Break Classification by Computer Vision
 
 This project is dedicated to developing a computer vision model that can accurately classify various types of bone fractures from X-ray images, leveraging the potential of deep learning and computer vision for enhanced medical diagnosis.
